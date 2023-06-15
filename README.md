@@ -20,22 +20,22 @@ console.error(teste)
 
 - item 1
 - item 2
-    -sub item 1
-    -sub item2
+    - sub item 1
+    - sub item2
 
 exemplo de lista numerada
 1. item 
 2. item 2
-    1.sub item 1
+    1. sub item 1
     2. sub item 2
 
 
     [acesse o google](https://www.google)
 
     #### caixas de check
-    - [x] fazer a tela de login
-    - [ ] criar a tela de calculo
-    - [ ] criar a tela de historico
+ - [x] fazer a tela de login
+ - [ ] criar a tela de calculo
+ - [ ] criar a tela de historico
    ####
    | coluna 1 | coluna 2 |
    |--------- | -------- |
